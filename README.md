@@ -90,4 +90,5 @@ Betting strategy insights
 
 👩‍💻 Author
 
-Keerthana C
+Sneha
+
